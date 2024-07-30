@@ -6,6 +6,9 @@ title: Software Testing
 
 please put some notes about what you've learned about testing today here.
 
+I learned testing is really rad, but I'm still confused.
+
+Something about red-green-refactor. blah blah 
 
 # API Testing with Alba
 
